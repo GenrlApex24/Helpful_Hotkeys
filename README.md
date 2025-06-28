@@ -8,7 +8,7 @@ Each of the different .ahk files has its own hotkey/s that solve a problem or ma
 Clipboard Manager<br>
 - Whenever you copy/cut anyting it saves it<br>
 - You can then use **Alt+AppsKey** (menu key) to open a small menu where you can click on any of your recently saved copied/cut clips<br>
-- You can then clear the clips by opening the menu (alt+AppsKey) the clicking the item named "clear clips!"<br>
+- You can then clear the clips by opening the menu (Alt+AppsKey) the clicking the item named "clear clips!"<br>
 
 Saved Websites<br>
 - Put any link (has to include https://) into the saved_websites.txt file then change the file path in saved_websites.ahk (if needed)<br>
