@@ -18,7 +18,7 @@ take_clip(data_type){
 OnClipboardChange(take_clip)
 
 
-!AppsKey::{
+~!AppsKey::{
     global clips, MyMenu
 
     MyMenu := Menu()

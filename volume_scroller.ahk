@@ -1,9 +1,9 @@
 #Requires AutoHotkey v2.0
 
-!Right:: {
+~!Right:: {
     Send "{Volume_Up}"
 }
 
-!Left:: {
+~!Left:: {
     Send "{Volume_Down}"
 }
